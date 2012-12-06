@@ -1,0 +1,23 @@
+#wrap {
+	width: 980px;
+	margin:0 auto;
+}
+header{
+	height:200px;
+	background:#a29f9f;
+	margin-bottom: 5px;
+}
+nav{
+	background:#a29f9f;
+	height:40px;
+	margin-bottom: 5px;
+}
+#main {
+	background:#a29f9f;
+	margin-bottom: 5px;
+	height:540px;
+}
+footer{
+	background:#a29f9f;
+	height:150px;
+}
